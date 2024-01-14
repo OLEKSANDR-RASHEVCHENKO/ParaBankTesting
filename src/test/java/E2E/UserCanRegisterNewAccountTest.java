@@ -9,7 +9,7 @@ public class UserCanRegisterNewAccountTest extends TestBase{
     CreateNewAccountPage createNewAccountPage;
     @Test
     public void userCanRegisterNewAcc(){
-        String firstName="Oleksandr";
+        String firstName="Olerksand";
         String lastName="Rashevchenko";
         String address="Dresdner Straße 8";
         String city="Dresden";
